@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>emp - 7</key>
+	<dict>
+		<key>PayRate</key>
+		<integer>15</integer>
+		<key>Name</key>
+		<string>Words Lawyerly</string>
+		<key>EmpID</key>
+		<integer>53</integer>
+	</dict>
+	<key>emp - 6</key>
+	<dict>
+		<key>PayRate</key>
+		<integer>35</integer>
+		<key>Name</key>
+		<string>Tec Worker</string>
+		<key>EmpID</key>
+		<integer>99</integer>
+	</dict>
+	<key>emp - 5</key>
+	<dict>
+		<key>PayRate</key>
+		<real>29.99</real>
+		<key>Name</key>
+		<string>IT Nerdly</string>
+		<key>EmpID</key>
+		<integer>85</integer>
+	</dict>
+	<key>emp - 4</key>
+	<dict>
+		<key>PayRate</key>
+		<real>37.99</real>
+		<key>Name</key>
+		<string>Veep Viperson</string>
+		<key>EmpID</key>
+		<integer>8</integer>
+	</dict>
+	<key>emp - 3</key>
+	<dict>
+		<key>PayRate</key>
+		<real>12.5</real>
+		<key>Name</key>
+		<string>Sec Retary</string>
+		<key>EmpID</key>
+		<integer>25</integer>
+	</dict>
+	<key>emp - 2</key>
+	<dict>
+		<key>PayRate</key>
+		<integer>20</integer>
+		<key>Name</key>
+		<string>Junior Peon</string>
+		<key>EmpID</key>
+		<integer>10</integer>
+	</dict>
+	<key>emp - 1</key>
+	<dict>
+		<key>PayRate</key>
+		<real>50</real>
+		<key>Name</key>
+		<string>Bossy McBossington</string>
+		<key>EmpID</key>
+		<integer>1</integer>
+	</dict>
+</dict>
+</plist>
